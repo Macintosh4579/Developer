@@ -1,0 +1,7 @@
+#title {
+ -webkit-background-size: 800px 200px;
+    -moz-background-size: 800px 200px;
+      -o-background-size: 800px 200px;
+         background-size: 800px 200px;
+background-image: url(default-header@2x.jpeg);
+}
